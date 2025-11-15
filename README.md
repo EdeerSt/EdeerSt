@@ -1,4 +1,4 @@
-Cybersecurity Lab – Brute-Force Simulations Using Medusa
+Cybersecurity Lab – Brute-Force Simulação usando Medusa
 
 Este projeto documenta um laboratório básico de cibersegurança utilizando Kali Linux, Medusa e ambientes vulneráveis como Metasploitable 2 e DVWA. O foco é simular ataques de força bruta, password spraying e automação de tentativas de login, com o objetivo de aprender conceitos essenciais de segurança defensiva.
 
